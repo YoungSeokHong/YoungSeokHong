@@ -2,7 +2,7 @@
 
 <a href="https://spiny-nurse-dec.notion.site/b5ff3cdb34c0466189daf5c59c4be35a" target="_blank"><img src="https://img.shields.io/badge/Profile(KOR)-333333?style=for-the-badge&logo=Notion&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/cevinlion@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
 
- 🌱 I’m currently learning Software at MyeongJi University in Seoul<br>
+ 🌱 I’m currently learning in Seoul<br>
  I want to be a developer who make the program that people need.🌏
  <br><br>
  I love to learn new things and am trying to do that!<br>
@@ -21,6 +21,10 @@
 ### DBMS
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
 
+### FRONT
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
+
 ### ETC
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black"/>&nbsp;
@@ -29,7 +33,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoungSeokHong&show_icons=true&theme=dark)
-
 <!--
 **YoungSeokHong/YoungSeokHong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
