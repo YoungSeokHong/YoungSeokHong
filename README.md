@@ -8,7 +8,6 @@
  I love to learn new things and am trying to do that!<br>
  And I like to explain what I have made or understood.
  ### Plz send me an email if you want to ask something.📧
- <br>
  
 ## 🛠 My Stacks 🛠
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>&nbsp;
