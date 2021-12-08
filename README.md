@@ -5,7 +5,7 @@
  🌱 I’m currently learning Softoware Engineering at MyeongJi university in Seoul<br>
  I want to be a developer who make the program that people need.🌏
  <br><br>
- I love to learn new things and am trying to do that!<br>
+ I love to learn new things and am trying to!<br>
  And I like to explain what I have made or understood.
  ### Plz send me an email if you want to ask something.📧
  
