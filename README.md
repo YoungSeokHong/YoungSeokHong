@@ -22,10 +22,8 @@
 
 ## I Used
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/><hr>
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoungSeokHong&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoungSeokHong&show_icons=true&theme=dark)
 <!--
 **YoungSeokHong/YoungSeokHong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
