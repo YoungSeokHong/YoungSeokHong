@@ -10,7 +10,7 @@
  ### Plz send me an email if you want to ask something.📧
  <br>
  
-## My Stacks
+## 🛠 My Stacks 🛠
 ### Language
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp;
