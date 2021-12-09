@@ -1,6 +1,6 @@
 # 👋Hi There, I'm YoungSeokHong!
 
-<a href="https://spiny-nurse-dec.notion.site/b5ff3cdb34c0466189daf5c59c4be35a" target="_blank"><img src="https://img.shields.io/badge/Profile(KOR)-333333?style=for-the-badge&logo=Notion&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/cevinlion@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
+<a href="https://spiny-nurse-dec.notion.site/b5ff3cdb34c0466189daf5c59c4be35a" target="_blank"><img src="https://img.shields.io/badge/Portfolio(KOR)-333333?style=for-the-badge&logo=Notion&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/cevinlion@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
 
  🌱 I’m currently learning Softoware Engineering at MyeongJi university in Seoul<br>
  I want to be a developer who make the program that people need.🌏
