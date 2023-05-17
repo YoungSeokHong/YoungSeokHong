@@ -2,12 +2,6 @@
 
 <a href="https://young-hong.notion.site/b5ff3cdb34c0466189daf5c59c4be35a" target="_blank"><img src="https://img.shields.io/badge/Portfolio(KOR)-333333?style=for-the-badge&logo=Notion&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/cevinlion@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
 
- 🌱 I’m currently learning Softoware Engineering at MyeongJi university in Seoul<br>
- I want to be a developer who make the program that people need.🌏
- <br><br>
- I love to learn new things and am trying to!<br>
- And I like to explain what I have made or understood.
- ### Plz send me an email if you want to ask something.📧
  
 ## 🛠 Main Stacks 🛠
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>&nbsp;
